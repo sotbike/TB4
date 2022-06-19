@@ -1,5 +1,5 @@
 # TB4
-time series analysis data &amp; code (severe complications after robotic / open partial nephrectomy)
+time series analysis data &amp; code (severe complications after robotic vs. open partial nephrectomy)
 
 R code is included for the implementation of fixed and random effects models in the context of a meta-regression analysis
 
